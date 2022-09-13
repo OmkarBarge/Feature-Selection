@@ -9,3 +9,4 @@
   Chi2 is a measure of dependency between two variables.<br>
   It gives us a goodness of fit measure because it measures how well an observed distribution of a particular feature fits with the distribution that is expected if two         features are independent.<br>
   Scikit-Learn offers a feature selection estimator named SelectKBest which select K numbers of features based on the statistical analysis.<br>
+  https://www.youtube.com/watch?v=_AWQ4Myxlcg
